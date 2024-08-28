@@ -1,8 +1,7 @@
 /* Global Styles - Applies to all elements within the <body> */
 body {
     font-family: Arial, sans-serif; /* Sets the font for the entire page */
-    background: url('https://img.freepik.com/free-photo/top-view-statistics-presentation-with-arrow_23-2149023747.jpg?w=826&t=st=1724811378~exp=1724811978~hmac=6ed0a25aa350b30435e179347c4de8cb41ba35330ec845238f835cf24f335c3d') no-repeat center center fixed; /* Background image with no-repeat, centered, and fixed position */
-    background-size: cover; /* Ensures the image covers the entire background */
+    background-color: #eed9be; /* Light beige background for the entire page */
     color: #412e2e; /* Dark brown text color for the entire page */
     margin: 0;
     padding: 0;
