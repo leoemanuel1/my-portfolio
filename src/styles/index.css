@@ -1,7 +1,8 @@
 /* Global Styles - Applies to all elements within the <body> */
 body {
     font-family: Arial, sans-serif; /* Sets the font for the entire page */
-    background-color: #eed9be; /* Light beige background for the entire page */
+    background: url('https://png.pngtree.com/background/20210710/original/pngtree-world-investment-finance-technology-blue-poster-background-picture-image_1012274.jpg') no-repeat center center fixed; /* Background image with no-repeat, centered, and fixed position */
+    background-size: cover; /* Ensures the image covers the entire background */
     color: #412e2e; /* Dark brown text color for the entire page */
     margin: 0;
     padding: 0;
