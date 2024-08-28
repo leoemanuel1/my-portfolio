@@ -1,7 +1,7 @@
 /* Global Styles - Applies to all elements within the <body> */
 body {
     font-family: Arial, sans-serif; /* Sets the font for the entire page */
-    background: url('https://png.pngtree.com/background/20210710/original/pngtree-world-investment-finance-technology-blue-poster-background-picture-image_1012274.jpg') no-repeat center center fixed; /* Background image with no-repeat, centered, and fixed position */
+    background: url('https://i.pinimg.com/736x/f6/13/62/f6136295b93f55fe37905005d0c535ae.jpg') no-repeat center center fixed; /* Background image with no-repeat, centered, and fixed position */
     background-size: cover; /* Ensures the image covers the entire background */
     color: #412e2e; /* Dark brown text color for the entire page */
     margin: 0;
