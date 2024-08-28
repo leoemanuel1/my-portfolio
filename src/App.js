@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 // import "./styles/index.css";
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import NavBar from './components/NavBar';
-import Gallery from './components/Gallery';
-import Buttons from './components/Buttons';
 import Home from './components/Home/Home';
 import Register from './components/Auth/Register';
 import Login from './components/Auth/Login';
@@ -13,15 +11,7 @@ import About from './components/About';
 import Footer from './components/Footer';
 
 function App() {
-  const [isRegistering, setIsRegistering] = useState(true);
 
-  const switchToLogin = () => {
-    setIsRegistering(false);
-  };
-
-  const switchToRegister = () => {
-    setIsRegistering(true);
-  };
   return (
     <>
       <Router>
