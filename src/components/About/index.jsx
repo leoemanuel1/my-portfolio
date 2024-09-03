@@ -9,8 +9,7 @@ export default function () {
 
             <div className="contentContainerAbout">
                 <div className="imageSectionAbout">
-                    {/* Replace 'path_to_your_image.jpg' with the actual path to your image */}
-                    <img src="path_to_your_image.jpg" alt="About Image" className="aboutImage" />
+                    <img src="/img/reportabout.jpg" alt="About Image" className="aboutImage" />
                 </div>
 
                 <div className="articleSectionAbout">
